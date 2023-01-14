@@ -44,7 +44,7 @@
 		"*.{js,jsx,ts,tsx,json,md}": "prettier --write"
 	},
 	"dependencies": {
-		"@seorii/win32-displayconfig": "^0.1.1",
+		"@maa/win32-displayconfig": "https://github.com/MaaAssistantArknights/win32-displayconfig#main",
 		"bindings": "^1.5.0",
 		"node-addon-api": "^4.2.0",
 		"node-gyp": "^8.4.1"
