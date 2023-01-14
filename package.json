@@ -47,7 +47,7 @@
 		"@maa/win32-displayconfig": "https://github.com/MaaAssistantArknights/win32-displayconfig.git#main",
 		"bindings": "^1.5.0",
 		"node-addon-api": "^4.2.0",
-		"node-gyp": "^8.4.1"
+		"node-gyp": "^9.1.0"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^15.0.0",
