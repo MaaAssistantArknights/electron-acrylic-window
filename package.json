@@ -27,7 +27,7 @@
 	"scripts": {
 		"build": "node-gyp rebuild && tsc",
 		"install": "node-gyp rebuild",
-		"test": "yarn build && yarn --cwd examples/customizable start",
+		"test": "pnpm build && pnpm --cwd examples/customizable start",
 		"format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
 		"lint": "eslint . --fix --ext .js,.jsx,.ts,.tsx",
 		"release": "standard-version",

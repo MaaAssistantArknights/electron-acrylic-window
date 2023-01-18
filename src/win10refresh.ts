@@ -1,4 +1,4 @@
-import { VerticalRefreshRateContext } from '@seorii/win32-displayconfig'
+import { VerticalRefreshRateContext } from '@maa/win32-displayconfig'
 import { BrowserWindow } from './browserWindow'
 import * as electron from 'electron'
 import process from 'process'
