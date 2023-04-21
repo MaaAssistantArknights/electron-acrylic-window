@@ -43,7 +43,7 @@
 		"*.{js,jsx,ts,tsx,json,md}": "prettier --write"
 	},
 	"dependencies": {
-		"@maa/win32-displayconfig": "https://github.com/MaaAssistantArknights/win32-displayconfig.git#main",
+		"@maa/win32-displayconfig": "github:MaaAssistantArknights/win32-displayconfig",
 		"bindings": "^1.5.0",
 		"node-addon-api": "^4.2.0",
 		"node-gyp": "^9.1.0"
